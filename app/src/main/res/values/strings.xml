@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Меню</string>
+    <string name="darktem">Тёмная тема</string>
+    <string name="whitetem">Светлая тема</string>
+    <string name="white">Белый</string>
+    <string name="black">Чёрный</string>
+    <string name="aboutTheme">Программа имеет функцию смены темы </string>
+</resources>
